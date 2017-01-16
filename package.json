@@ -8,9 +8,16 @@
     "test": "test"
   },
   "dependencies": {
-    "chai": "^3.5.0"
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "handlebars": "^4.0.6",
+    "lodash": "^4.17.4",
+    "pug": "^2.0.0-beta6"
   },
   "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp-pug": "^3.2.0",
+    "gulp-sass": "^3.1.0",
     "mocha": "^3.2.0"
   },
   "scripts": {
